@@ -73,20 +73,3 @@ python -m tests.test_transcript
 ├── utils/              # Utility scripts
 └── docs/               # Documentation
 ```
-
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details.
-
-For complete license and legal information including third-party licenses, see [LICENSE_INFO.md](LICENSE_INFO.md).
-
-## Contributing
-
-Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## Support
-
-- [Documentation](docs/)
-- [Report Issues](https://github.com/yourusername/repo/issues)
-- [Apify Docs](https://docs.apify.com/)
-- [Gemini API Docs](https://ai.google.dev/docs)
